@@ -8,4 +8,6 @@ sin ningun problema.
 En el navegador, se coloca la ruta "http://localhost:3020/" y ya se podra acceder al front creado para la interaccion
 con el backend que cuenta con todos los codigos necesarios para las funciones que requiere cada coleccion de la base de datos.
 
-Eso seria todo, cada apartado mostrado en el front tiene su conexion con el back mediante el archivo index.js
+Eso seria todo, cada apartado mostrado en el front tiene su conexion con el back mediante el archivo index.js.
+
+La explicacion del funcionamiento del codigo estara disponible en el video que se entregara en la asignacion pertinente.
