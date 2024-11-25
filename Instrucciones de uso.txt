@@ -1,0 +1,11 @@
+Hola, para el funcionamiento de este codigo, es necesario tener un archivo llamado .env con las claves de firebase,
+ya que estas claves son personales, no se deben subir a github, asi que esas claves se requieren de cada uno.
+Al igual que la carpeta node_modules, que se genera al hacer las instalaciones necesarias de las librerias 
+(ubicadas en package.json) y la conexion. 
+Una vez que se tienen estos campos, en la terminal, se coloca el comando "npm run dev" y el servidor deberia empezar a correr
+sin ningun problema.
+
+En el navegador, se coloca la ruta "http://localhost:3020/" y ya se podra acceder al front creado para la interaccion
+con el backend que cuenta con todos los codigos necesarios para las funciones que requiere cada coleccion de la base de datos.
+
+Eso seria todo, cada apartado mostrado en el front tiene su conexion con el back mediante el archivo index.js
