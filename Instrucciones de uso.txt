@@ -11,3 +11,4 @@ con el backend que cuenta con todos los codigos necesarios para las funciones qu
 Eso seria todo, cada apartado mostrado en el front tiene su conexion con el back mediante el archivo index.js.
 
 La explicacion del funcionamiento del codigo estara disponible en el video que se entregara en la asignacion pertinente.
+Hola
